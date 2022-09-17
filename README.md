@@ -1,3 +1,6 @@
+Ryan Miranda Domingos
+ryan.domingos@etec.sp.gov.br
+
 # Lista Ligada - Complmenentos
 ---
 
